@@ -1,5 +1,5 @@
-<p align="center" style="font-size:40px">
-  <br>GitShow
+<p align="center">
+  <img href="https://raw.githubusercontent.com/xxrBear/image/master/202302171129143.png"/>
 </p>
 
 
@@ -10,7 +10,7 @@ GitShow是我记录自己学习git的笔记哦~<br>
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [测试](/content/HelloGitHub82.md)
+| [命令](/content/commands/commands.md)
 
 欢迎指正及PR
 
