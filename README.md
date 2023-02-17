@@ -1,6 +1,8 @@
-<p align="center" style="font-size:40px">
-  <br>GitShow
-</p>
+<div align="center">
+  <a href="#">
+     <img src="https://raw.githubusercontent.com/xxrBear/image/master/202302171129143.png" width="600" height="180"/>
+  </a>
+</div>
 
 
 ## 简介
