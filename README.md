@@ -5,7 +5,7 @@
 
 ## 简介
 
-GitShow是我记录自己学习git的笔记哦~<br>
+**GitShow是我记录自己学习git的笔记哦~<br>**
 格式灵感来自 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub/)
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
